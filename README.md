@@ -1,2 +1,2 @@
 # reactApp
-dzdp mall test demo
+dzdp mall test 
