@@ -1,4 +1,4 @@
 # reactApp
 dzdp mall test 
 make sure ssh
-gg
+gg ss
