@@ -1,3 +1,3 @@
 # reactApp
 dzdp mall test 
-make sure ssh ssss
+make sure ssh sssss
